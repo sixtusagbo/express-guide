@@ -1,0 +1,28 @@
+{
+  "name": "express-guide",
+  "version": "1.0.0",
+  "description": "Following the ExpressJS guide from the Express documentation step by step",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixtusagbo/express-guide.git"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "node",
+    "server"
+  ],
+  "author": "Sixtus Agbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sixtusagbo/express-guide/issues"
+  },
+  "homepage": "https://github.com/sixtusagbo/express-guide#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
