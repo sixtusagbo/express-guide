@@ -4,7 +4,7 @@
   "description": "Following the ExpressJS guide from the Express documentation step by step",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
   "homepage": "https://github.com/sixtusagbo/express-guide#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
   }
 }
